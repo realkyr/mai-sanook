@@ -1,0 +1,22 @@
+html, body {
+  background-color: #fff;
+  color: #1A1A1A;
+
+  .ant-typography {
+    color: #1A1A1A;
+  }
+
+  // transition
+  transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+
+  &.dark-mode,
+  &.dark-mode body {
+    background-color: #1A1A1A;
+    color: #fff;
+    transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+
+    .ant-typography {
+      color: #fff;
+    }
+  }
+}

@@ -1,0 +1,504 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "headers": "NSW swelters with high temperatures; power blackouts possible",
+            "shortDescription": "Residents in NSW asked to limit electricity use due to high temperatures.",
+            "description": "Most of NSW is experiencing temperatures above 35 degrees, leading to potential power blackouts. Residents are advised to limit electricity use until 9 pm.",
+            "category": "Environment",
+            "publishedAt": 1670989800,
+            "popularity": 198,
+            "image": "https://live-production.wcms.abc-cdn.net.au/8668ed0460d1b000ce4027035fc4fb84"
+        },
+        {
+            "id": 2,
+            "headers": "Victoria police may step-up industrial action over pay dispute",
+            "shortDescription": "Victoria police consider increased industrial action amid ongoing pay dispute.",
+            "description": "Police in Victoria will vote on escalating industrial action as the pay dispute continues. Measures include not penalising most speeding drivers and refusing extra duties.",
+            "category": "Law & Order",
+            "publishedAt": 1670989800,
+            "popularity": 214,
+            "image": "https://i.guim.co.uk/img/media/ecd1f82a05848854d2689ba20fdeff26bc1009c5/197_701_5423_3256/master/5423.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=85ea671736e9749e91fe792bc39dc0be"
+        },
+        {
+            "id": 3,
+            "headers": "Jan Cameron faces jail time for breaching corporations act",
+            "shortDescription": "Kathmandu founder guilty of corporate law breach, facing jail.",
+            "description": "Wealthy businesswoman Jan Cameron, founder of Kathmandu, found guilty of breaching the corporations act and facing potential jail time.",
+            "category": "Business",
+            "publishedAt": 1670989800,
+            "popularity": 170,
+            "image": "https://static.ffx.io/images/$zoom_0.53%2C$multiply_0.7252%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_9/t_crop_custom/q_86%2Cf_auto/8fe321f8d4409346c365263f25cf2f2aa3c1887d"
+        },
+        {
+            "id": 4,
+            "headers": "Richard Marles' office vandalised with red paint",
+            "shortDescription": "Deputy Prime Minister's office targeted in vandalism incident.",
+            "description": "The office of Deputy Prime Minister Richard Marles has been vandalised with red paint, with police currently investigating the incident.",
+            "category": "Politics",
+            "publishedAt": 1670989800,
+            "popularity": 156,
+            "image": "https://content.api.news/v3/images/bin/d450872febd8aa9d99f75ee336b8adae"
+        },
+        {
+            "id": 5,
+            "headers": "Australia's unemployment rate rises to 3.9%",
+            "shortDescription": "Slight increase in Australia's unemployment rate.",
+            "description": "Australia's unemployment rate has risen by 0.1 percentage points, reaching 3.9% in November, according to new data from the Australian Bureau of Statistics.",
+            "category": "Economy",
+            "publishedAt": 1670989800,
+            "popularity": 189,
+            "image": "https://i.guim.co.uk/img/media/39428cfc987bda0a8055e4656aed136844119805/0_0_5568_3341/master/5568.jpg?width=465&dpr=1&s=none"
+        },
+        {
+            "id": 6,
+            "headers": "Thai police seize 50 million Ice tablets, one of region’s largest hauls in years",
+            "shortDescription": "Thai police have seized a record haul of methamphetamine tablets in Kanchanaburi, near the Myanmar border.",
+            "description": "Thai police seized an estimated 50 million methamphetamine tablets hidden in sacks in a truck. This comes after a similar large seizure in Laos in 2021. The production is attributed to militias and traffickers in northern Myanmar.",
+            "category": "Crime",
+            "publishedAt": 1670989800,
+            "popularity": 237,
+            "image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2023/12/14/98af3bab-58eb-460a-865e-c074cc57c103_d3326aa8.jpg"
+        },
+        {
+            "id": 7,
+            "headers": "Thai hospital faces questions for allegedly not admitting injured Taiwanese tourist who died later",
+            "shortDescription": "Investigation launched into a Bangkok hospital's refusal to admit an injured Taiwanese tourist.",
+            "description": "A Taiwanese tourist died after being denied admission by a Bangkok hospital following a car crash. The hospital staff reportedly refused treatment over financial concerns. The incident is under investigation.",
+            "category": "Health",
+            "publishedAt": 1670989800,
+            "popularity": 145,
+            "image": "https://onecms-res.cloudinary.com/image/upload/s--ve4SgQ5G--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/12/14/20231214_reuters_thailand_taiwanese_accident.jpg?itok=ZMiRfYDK"
+        },
+        {
+            "id": 8,
+            "headers": "Thailand Waives Visas for Japanese Business Travelers for 3 Years Before PM’s Visit to Tokyo",
+            "shortDescription": "Thailand approves visa waiver for Japanese business travelers for three years.",
+            "description": "Thailand will waive visa requirements for Japanese business travelers from January 2024 to December 2026. This move aims to boost economic and foreign policy cooperation with Japan.",
+            "category": "Travel",
+            "publishedAt": 0,
+            "popularity": 321,
+            "image": "https://www.khaosodenglish.com/wp-content/uploads/2023/11/japan-kishida1-696x463.jpg"
+        },
+        {
+            "id": 9,
+            "headers": "Russia-Ukraine war: List of key events, day 659",
+            "shortDescription": "Latest updates on the Russia-Ukraine war.",
+            "description": "At least 53 people were injured in Kyiv due to a Russian missile attack. A cyberattack on Ukraine's largest mobile network is believed to be linked to Russian intelligence. EU leaders to discuss Ukraine's membership.",
+            "category": "Politics",
+            "publishedAt": 1670989800,
+            "popularity": 187,
+            "image": "https://www.aljazeera.com/wp-content/uploads/2023/12/AP23347394098247-1702518311.jpg?resize=770%2C513&quality=80"
+        },
+        {
+            "id": 10,
+            "headers": "Hong Kong: Absurd cash bounties on overseas activists designed to sow fear worldwide",
+            "shortDescription": "Hong Kong police offer bounties on overseas pro-democracy activists.",
+            "description": "Hong Kong police have placed bounties on five overseas activists and arrested four people in Hong Kong, accused of assisting exiled activists. This is part of the authorities' global crackdown on dissent.",
+            "category": "Politics",
+            "publishedAt": 1670989800,
+            "popularity": 262,
+            "image": "https://www.amnesty.org/en/wp-content/uploads/2023/12/295613-scaled.jpg"
+        },
+        {
+            "id": 11,
+            "headers": "New Technology Breakthrough: Quantum Computing for Everyday Users",
+            "shortDescription": "Researchers unveil quantum computing accessible for everyday users.",
+            "description": "Scientists announce a groundbreaking development in quantum computing, making it accessible for everyday users. This innovation is expected to revolutionize various industries.",
+            "category": "Science & Technology",
+            "publishedAt": 1670989800,
+            "popularity": 201,
+            "image": "https://bernardmarr.com/wp-content/uploads/2021/08/The-Future-of-Quantum-Computing.jpg"
+        },
+        {
+            "id": 12,
+            "headers": "Global Food Crisis Deepens: UN Calls for Urgent Action",
+            "shortDescription": "UN issues urgent call to address worsening global food crisis.",
+            "description": "The United Nations declares a state of emergency as the global food crisis worsens. Urgent action is needed to prevent widespread hunger and suffering in vulnerable communities.",
+            "category": "World",
+            "publishedAt": 1670989800,
+            "popularity": 178,
+            "image": "https://www.ifrc.org/sites/default/files/styles/article_press_release_featured_image/public/2022-09/p-AGO0179%201280x720.png?itok=jTiT5C3d"
+        },
+        {
+            "id": 13,
+            "headers": "New Study Reveals Alarming Increase in Cyber Attacks on Critical Infrastructure",
+            "shortDescription": "Cybersecurity study highlights a surge in attacks on critical infrastructure.",
+            "description": "A recent cybersecurity study reports a significant increase in cyber attacks targeting critical infrastructure worldwide. Experts warn of the potential risks and call for enhanced security measures.",
+            "category": "Technology",
+            "publishedAt": 1670989800,
+            "popularity": 215,
+            "image": "https://content.kaspersky-labs.com/fm/press-releases/fa/fa3a0dc146592796dbad6ac0ca7c104e/processed/would-you-say-the-budget-for-cybersecurity-measures-in-your-company-q75.jpg"
+        },
+        {
+            "id": 14,
+            "headers": "Celebrity Couple Announces Surprise Engagement",
+            "shortDescription": "Popular celebrity couple shocks fans with a surprise engagement announcement.",
+            "description": "A well-known celebrity couple has surprised fans by announcing their engagement on social media. The news has taken the internet by storm, with fans expressing their excitement and congratulations.",
+            "category": "Entertainment",
+            "publishedAt": 1670989800,
+            "popularity": 289,
+            "image": "https://pagesix.com/wp-content/uploads/sites/3/2022/01/celebrity-engagements-47.jpg?quality=75&strip=all&w=1024"
+        },
+        {
+            "id": 15,
+            "headers": "New Breakthrough in Renewable Energy: Solar Panels with Record Efficiency",
+            "shortDescription": "Researchers achieve record efficiency in solar panel technology.",
+            "description": "Scientists have achieved a groundbreaking breakthrough in renewable energy with solar panels reaching record efficiency levels. This advancement holds promise for a more sustainable and eco-friendly future.",
+            "category": "Environment",
+            "publishedAt": 1670989800,
+            "popularity": 243,
+            "image": "https://www.renewableinstitute.org/wp2022/wp-content/uploads/2023/07/Solar-p.png"
+        },
+        {
+            "id": 16,
+            "headers": "Space Exploration Milestone: First Human Mission to Mars Planned",
+            "shortDescription": "Human mission to Mars set to launch in historic space exploration event.",
+            "description": "In a historic milestone for space exploration, plans for the first human mission to Mars are unveiled. The mission is expected to pave the way for future interplanetary travel.",
+            "category": "Science",
+            "publishedAt": 1670989800,
+            "popularity": 198,
+            "image": "https://res.heraldm.com/content/image/2021/04/14/20210414000900_0.jpg"
+        },
+        {
+            "id": 17,
+            "headers": "Major International Summit Addresses Climate Change Crisis",
+            "shortDescription": "World leaders gather to address the escalating climate change crisis.",
+            "description": "Leaders from around the world converge at a major international summit to discuss urgent measures to combat the escalating climate change crisis. The summit aims to foster global cooperation in achieving environmental sustainability.",
+            "category": "Environment",
+            "publishedAt": 1670989800,
+            "popularity": 177,
+            "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GLKHIQGGOJNLVBNBTH5BEVCRDA.jpg"
+        },
+        {
+            "id": 18,
+            "headers": "Tech Giant Unveils Revolutionary Artificial Intelligence Chip",
+            "shortDescription": "Revolutionary AI chip promises breakthroughs in machine learning.",
+            "description": "A leading tech giant unveils a revolutionary artificial intelligence chip designed to accelerate machine learning processes. The chip is expected to bring about significant advancements in AI technology.",
+            "category": "Technology",
+            "publishedAt": 1670989800,
+            "popularity": 225,
+            "image": "https://ts2.space/wp-content/uploads/2023/10/Qualcomm-Unveils-Revolutionary-Chip-for-Windows-Laptops-Paving-the-Way-for-AI-Powered-PCs_6538f619bddcc.jpg"
+        },
+        {
+            "id": 19,
+            "headers": "Global Economic Outlook: Experts Warn of Potential Recession",
+            "shortDescription": "Economic experts express concerns over the global economic outlook.",
+            "description": "Leading economists and financial experts warn of a looming recession as they analyze the global economic outlook. Factors such as inflation, supply chain disruptions, and geopolitical tensions contribute to the concerns.",
+            "category": "Economy",
+            "publishedAt": 1670989800,
+            "popularity": 190,
+            "image": "https://www.bnnbloomberg.ca/polopoly_fs/1.1868151!/fileimage/httpImage/image.png_gen/derivatives/default/map.png"
+        },
+        {
+            "id": 20,
+            "headers": "New Medical Breakthrough: Promising Treatment for Alzheimer's Disease",
+            "shortDescription": "Researchers announce a promising breakthrough in Alzheimer's disease treatment.",
+            "description": "Scientists reveal a potential breakthrough in the treatment of Alzheimer's disease, offering hope to millions affected by the debilitating condition. Clinical trials show promising results in slowing down cognitive decline.",
+            "category": "Health",
+            "publishedAt": 1670989800,
+            "popularity": 211,
+            "image": "https://cff2.earth.com/uploads/2023/07/30110643/shutterstock_21110979383-960x640.jpg"
+        },
+        {
+            "id": 21,
+            "headers": "Emerging Trends in Sustainable Fashion: Eco-Friendly Materials Gain Traction",
+            "shortDescription": "Sustainable fashion witnesses a surge in popularity with eco-friendly materials.",
+            "description": "The fashion industry experiences a shift towards sustainability, with eco-friendly materials gaining traction among designers and consumers. Emerging trends focus on environmentally conscious practices to reduce the ecological impact of fashion.",
+            "category": "Fashion",
+            "publishedAt": 1670989800,
+            "popularity": 168,
+            "image": "https://res.cloudinary.com/jerrick/image/upload/v1690184038/64be2965fc8312001df131e7.png"
+        },
+        {
+            "id": 22,
+            "headers": "Renowned Chef Launches Innovative Culinary School",
+            "shortDescription": "Celebrity chef opens a groundbreaking culinary school with innovative teaching methods.",
+            "description": "A renowned celebrity chef takes culinary education to new heights with the launch of an innovative culinary school. The school promises to impart cutting-edge techniques and foster creativity among aspiring chefs.",
+            "category": "Food & Dining",
+            "publishedAt": 1670989800,
+            "popularity": 205,
+            "image": "https://www.chefspencil.com/wp-content/uploads/13-Best-Culinary-Schools-in-The-World.jpg"
+        },
+        {
+            "id": 23,
+            "headers": "Groundbreaking Study on Mental Health: New Insights into Depression Treatment",
+            "shortDescription": "Scientific study offers new insights into effective depression treatment.",
+            "description": "A groundbreaking scientific study provides new insights into the treatment of depression, offering potential breakthroughs in mental health care. The findings could lead to more effective therapeutic approaches for individuals struggling with depression.",
+            "category": "Health",
+            "publishedAt": 1670989800,
+            "popularity": 182,
+            "image": "https://www.healtheuropa.com/wp-content/uploads/2023/11/%C2%A9-shutterstockGoodIdeas_2101214062.jpg"
+        },
+        {
+            "id": 24,
+            "headers": "International Collaboration in Space: Joint Mission to Explore Outer Planets",
+            "shortDescription": "Countries join forces for a historic mission to explore outer planets in our solar system.",
+            "description": "In a remarkable display of international collaboration, multiple countries unite for a joint mission to explore outer planets in our solar system. The mission aims to expand our understanding of the distant celestial bodies.",
+            "category": "Science",
+            "publishedAt": 1670989800,
+            "popularity": 219,
+            "image": "https://www.marssociety.org/wp-content/uploads/2021/08/international-space-station-against-starlight-FUUEA6P-1920x1080.jpg"
+        },
+        {
+            "id": 25,
+            "headers": "Crisis Averted: Diplomatic Resolution Ends Tensions Between Major Powers",
+            "shortDescription": "Diplomatic efforts lead to a resolution, easing tensions between major powers.",
+            "description": "Intensive diplomatic negotiations result in a resolution, defusing tensions between major global powers. The successful diplomatic efforts are praised for preventing a potential crisis and fostering international cooperation.",
+            "category": "World",
+            "publishedAt": 1670989800,
+            "popularity": 195,
+            "image": "https://www.e-ir.info/wp-content/uploads/2016/12/16389773974_6a84f83211_k.jpg"
+        },
+        {
+            "id": 26,
+            "headers": "Innovative Green Energy Project: Floating Solar Farms Harness Sun's Power",
+            "shortDescription": "Floating solar farms emerge as an innovative solution for harnessing solar power.",
+            "description": "Green energy takes a leap forward with the implementation of innovative floating solar farms. These structures harness the sun's power on bodies of water, providing a sustainable and efficient energy source.",
+            "category": "Environment",
+            "publishedAt": 1670989800,
+            "popularity": 233,
+            "image": "https://assets.justenergy.com/wp-content/uploads/2023/10/floating-solar-farms-on-lake-renewable-energy.jpeg"
+        },
+        {
+            "id": 27,
+            "headers": "Artificial Intelligence in Healthcare: Robotic Surgeons Transform Medical Procedures",
+            "shortDescription": "Robotic surgeons powered by artificial intelligence revolutionize medical procedures.",
+            "description": "The integration of artificial intelligence in healthcare reaches new heights as robotic surgeons transform medical procedures. These advanced machines offer precision and efficiency, leading to improved patient outcomes.",
+            "category": "Technology",
+            "publishedAt": 1670989800,
+            "popularity": 208,
+            "image": "https://www.automate.org/images/imglibrary/medmed1.jpg"
+        },
+        {
+            "id": 28,
+            "headers": "Robotics Advancements in Agriculture: AI-driven Harvesting Boosts Crop Yields",
+            "shortDescription": "AI-powered robotic systems revolutionize harvesting in the agriculture sector.",
+            "description": "The integration of artificial intelligence in agriculture leads to significant advancements in harvesting techniques. AI-driven robotic systems enhance efficiency, reduce labor costs, and boost crop yields, transforming the agricultural landscape.",
+            "category": "Technology",
+            "publishedAt": 1671122400,
+            "popularity": 198,
+            "image": "https://synapse-invest.ch/wp-content/uploads/2022/11/ag-robot.png"
+        },
+        {
+            "id": 29,
+            "headers": "New Space Telescope Unveiled: Promises Unprecedented Views of the Cosmos",
+            "shortDescription": "Cutting-edge space telescope set to provide unparalleled views of the universe.",
+            "description": "Scientists reveal the latest space telescope equipped with state-of-the-art technology, promising unprecedented views of the cosmos. The telescope is expected to advance our understanding of distant galaxies, stars, and cosmic phenomena.",
+            "category": "Science",
+            "publishedAt": 1671122400,
+            "popularity": 215,
+            "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/12/121722_jwst_feat.jpg?resize=1440%2C700&ssl=1"
+        },
+        {
+            "id": 30,
+            "headers": "Urban Mobility Revolution: Flying Cars Take to the Skies in Test Flights",
+            "shortDescription": "Prototypes of flying cars undergo successful test flights in urban areas.",
+            "description": "In a major leap toward urban mobility innovation, prototypes of flying cars have completed successful test flights in urban environments. This breakthrough brings the vision of flying cars for everyday transportation one step closer to reality.",
+            "category": "Technology",
+            "publishedAt": 1671122400,
+            "popularity": 177,
+            "image": "https://www.arabianbusiness.com/cloud/2023/10/09/flying-taxi2.jpg"
+        },
+        {
+            "id": 31,
+            "headers": "Revolutionary Cancer Treatment: Nanoparticles Deliver Targeted Therapy",
+            "shortDescription": "Nanotechnology transforms cancer treatment with targeted therapy delivery.",
+            "description": "Groundbreaking research in nanotechnology heralds a new era in cancer treatment. Nanoparticles are employed to deliver targeted therapy directly to cancer cells, minimizing side effects and improving the efficacy of treatments.",
+            "category": "Health",
+            "publishedAt": 1671122400,
+            "popularity": 189,
+            "image": "https://pub.mdpi-res.com/ijms/ijms-23-01685/article_deploy/html/images/ijms-23-01685-g001.png"
+        },
+        {
+            "id": 32,
+            "headers": "Digital Currency Adoption Surges: Central Banks Explore Cryptocurrency Issuance",
+            "shortDescription": "Central banks worldwide explore the issuance of digital currencies.",
+            "description": "Amid the growing popularity of digital currencies, central banks globally are exploring the possibility of issuing their own cryptocurrencies. This move aims to adapt to evolving financial landscapes and harness the benefits of blockchain technology.",
+            "category": "Economy",
+            "publishedAt": 1671122400,
+            "popularity": 201,
+            "image": "https://foreignpolicy.com/wp-content/uploads/2021/10/FOM-pt-3-Hero-still-image.jpg?w=1773"
+        },
+        {
+            "id": 33,
+            "headers": "AI-Generated Art Takes Center Stage: Virtual Art Exhibitions Gain Traction",
+            "shortDescription": "Virtual art exhibitions showcase the creativity of AI-generated artworks.",
+            "description": "Artificial intelligence-generated art gains prominence as virtual exhibitions showcase the creativity and innovation of algorithmically created masterpieces. This emerging trend challenges traditional notions of art and sparks new discussions about the intersection of technology and creativity.",
+            "category": "Art & Culture",
+            "publishedAt": 1671122400,
+            "popularity": 243,
+            "image": "https://ca-times.brightspotcdn.com/dims4/default/15f5ae7/2147483647/strip/true/crop/3840x2016+0+144/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F61%2F96%2F67028a214ca3b23056ec6f95a89c%2Fjeffreydeitch-led-1.jpeg"
+        },
+        {
+            "id": 34,
+            "headers": "Renewable Energy Breakthrough: Wind Turbines Generate Power Without Blades",
+            "shortDescription": "Bladeless wind turbines revolutionize renewable energy generation.",
+            "description": "A revolutionary breakthrough in renewable energy sees the introduction of bladeless wind turbines that generate power without traditional blades. This innovation aims to improve efficiency, reduce environmental impact, and contribute to the global shift toward sustainable energy sources.",
+            "category": "Environment",
+            "publishedAt": 1671122400,
+            "popularity": 225,
+            "image": "https://stateofgreen.com/en/wp-content/uploads/2023/10/2022_05_13_STATE_OF_GREEN__0033.jpg"
+        },
+        {
+            "id": 35,
+            "headers": "AI-Powered Personal Assistants: Virtual Companions Enhance Daily Life",
+            "shortDescription": "Advanced AI personal assistants provide enhanced support in daily tasks.",
+            "description": "The evolution of artificial intelligence brings forth advanced personal assistants that utilize machine learning and natural language processing to provide enhanced support in daily tasks. These virtual companions aim to streamline productivity and improve user experiences.",
+            "category": "Technology",
+            "publishedAt": 1671122400,
+            "popularity": 268,
+            "image": "https://miro.medium.com/v2/resize:fit:1024/1*hDJwgLmzyQtbiqeiHR_Kkg.png"
+        },
+        {
+            "id": 36,
+            "headers": "Ocean Exploration Initiative: Submersible Drones Uncover Deep-Sea Mysteries",
+            "shortDescription": "Underwater drones revolutionize ocean exploration, uncovering deep-sea mysteries.",
+            "description": "An ambitious ocean exploration initiative employs submersible drones equipped with cutting-edge technology to uncover mysteries of the deep sea. These underwater drones provide valuable insights into marine ecosystems and contribute to scientific understanding of ocean environments.",
+            "category": "Science",
+            "publishedAt": 1671122400,
+            "popularity": 198,
+            "image": "https://macleans.ca/wp-content/uploads/2016/07/Nekton.jpg"
+        },
+        {
+            "id": 37,
+            "headers": "Empowering Women in Tech: Global Initiatives Drive Gender Diversity",
+            "shortDescription": "Global initiatives aim to empower women in the tech industry, promoting gender diversity.",
+            "description": "International efforts focus on empowering women in the tech industry, promoting gender diversity, and addressing the gender gap in STEM fields. Initiatives include mentorship programs, scholarships, and advocacy for equal opportunities in technology-related careers.",
+            "category": "Technology",
+            "publishedAt": 1671122400,
+            "popularity": 182,
+            "image": "https://www.microsoft.com/en-gb/industry/blog/wp-content/uploads/sites/22/2020/03/ID7874-EmpoweringWomenInTech-FeaturedImage-1.png"
+        },
+        {
+            "id": 38,
+            "headers": "Revolutionizing Transportation: Hyperloop Test Reaches Record Speeds",
+            "shortDescription": "Hyperloop transportation system achieves groundbreaking speeds in recent tests.",
+            "description": "The Hyperloop, a high-speed transportation concept, breaks records in recent tests, reaching unprecedented speeds. This development marks a significant step forward in the pursuit of ultra-fast and efficient mass transit systems.",
+            "category": "Technology",
+            "publishedAt": 1671255000,
+            "popularity": 205,
+            "image": "https://miro.medium.com/v2/resize:fit:1080/1*G0FoCZbm1TXY-TA8hMeCSw.jpeg"
+        },
+        {
+            "id": 39,
+            "headers": "AI in Sports Analytics: Teams Embrace Smart Technologies for Performance Insights",
+            "shortDescription": "Sports teams integrate AI for advanced analytics and performance insights.",
+            "description": "The use of artificial intelligence in sports analytics gains momentum as teams adopt smart technologies to gain advanced insights into player performance, strategy optimization, and injury prevention. AI-driven tools revolutionize the way sports are analyzed and played.",
+            "category": "Sports",
+            "publishedAt": 1671255000,
+            "popularity": 218,
+            "image": "https://prakashinfotech.com/wp-content/uploads/2023/12/ai-in-sports.png"
+        },
+        {
+            "id": 40,
+            "headers": "Biotech Breakthrough: CRISPR Gene Editing Shows Promise in Treating Genetic Diseases",
+            "shortDescription": "CRISPR gene editing technology demonstrates potential in treating genetic disorders.",
+            "description": "Recent advancements in biotechnology showcase the potential of CRISPR gene editing technology in treating genetic diseases. Promising results in preclinical trials raise hopes for more effective and precise treatments for a range of genetic disorders.",
+            "category": "Health",
+            "publishedAt": 1671255000,
+            "popularity": 195,
+            "image": "https://www.insideprecisionmedicine.com/wp-content/uploads/2021/07/GeneEditing_GettyImages_930103248_CIPhotos_GlovedHandsDNA-696x464.jpg"
+        },
+        {
+            "id": 41,
+            "headers": "Smart Cities Initiative: IoT Integration Enhances Urban Living",
+            "shortDescription": "Cities worldwide embrace IoT integration for smarter urban living.",
+            "description": "A global smart cities initiative sees cities worldwide integrating Internet of Things (IoT) technologies to enhance urban living. IoT-enabled infrastructure improves efficiency, sustainability, and connectivity, creating more intelligent and responsive urban environments.",
+            "category": "Technology",
+            "publishedAt": 1671255000,
+            "popularity": 231,
+            "image": "https://iothink-solutions.com/wp-content/uploads/2023/06/post-smart-cities-tw.jpg"
+        },
+        {
+            "id": 42,
+            "headers": "Green Architecture: Sustainable Skyscrapers Redefine City Skylines",
+            "shortDescription": "Architects design sustainable skyscrapers to promote eco-friendly urban development.",
+            "description": "In a push for eco-friendly urban development, architects worldwide are designing sustainable skyscrapers that prioritize energy efficiency, green spaces, and environmentally conscious materials. These structures redefine city skylines while promoting a more sustainable future.",
+            "category": "Environment",
+            "publishedAt": 1671255000,
+            "popularity": 208,
+            "image": "https://weburbanist.com/wp-content/uploads/2015/01/panoramic-green-city-view.jpg"
+        },
+        {
+            "id": 43,
+            "headers": "Exploring the Deep Sea: Submarine Dives Reveal Unknown Marine Life",
+            "shortDescription": "Submarine expeditions uncover unknown marine life in the deep sea.",
+            "description": "Recent submarine expeditions into the deep sea reveal previously unknown marine life forms, expanding our understanding of the vast ocean ecosystems. These discoveries contribute to marine biology research and highlight the importance of deep-sea exploration.",
+            "category": "Science",
+            "publishedAt": 1671255000,
+            "popularity": 177,
+            "image": "https://www.whoi.edu/wp-content/uploads/2015/12/Nadir-950_411133.jpg"
+        },
+        {
+            "id": 44,
+            "headers": "Empowering Rural Communities: Solar-Powered Microgrids Bring Electricity Access",
+            "shortDescription": "Solar-powered microgrids provide electricity access to remote rural communities.",
+            "description": "Initiatives focused on empowering rural communities deploy solar-powered microgrids to bring reliable electricity access to remote areas. This innovative approach aims to bridge the energy gap, improve living conditions, and stimulate economic development in underserved regions.",
+            "category": "Environment",
+            "publishedAt": 1671255000,
+            "popularity": 198,
+            "image": "https://www.eltek.com/globalassets/media/industries---applications---illustrations/rural-electrification/rural_village_power.jpg"
+        },
+        {
+            "id": 45,
+            "headers": "Virtual Reality in Education: Immersive Learning Experiences Transform Classrooms",
+            "shortDescription": "Educational institutions embrace virtual reality for immersive learning experiences.",
+            "description": "The integration of virtual reality (VR) in education transforms traditional classrooms into immersive learning environments. Students engage in interactive and realistic experiences, enhancing their understanding of complex subjects and fostering a new era of educational technology.",
+            "category": "Education",
+            "publishedAt": 1671255000,
+            "popularity": 224,
+            "image": "https://ideas.demco.com/wp-content/uploads/2022/04/GettyImages-1089737754-scaled.jpg"
+        },
+        {
+            "id": 46,
+            "headers": "AI-Assisted Healthcare Diagnostics: Advanced Algorithms Improve Disease Detection",
+            "shortDescription": "Artificial intelligence aids healthcare diagnostics with advanced algorithms.",
+            "description": "In healthcare, artificial intelligence plays a crucial role in diagnostics, leveraging advanced algorithms to improve disease detection accuracy. AI-assisted diagnostic tools enhance efficiency, speed, and precision in identifying and treating various medical conditions.",
+            "category": "Health",
+            "publishedAt": 1671255000,
+            "popularity": 210,
+            "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2023/06/Evaluations-of-AI-Applications-in-Healthcare_SOM-XCHE0011_8gNxkji.jpg"
+        },
+        {
+            "id": 47,
+            "headers": "Innovative Recycling Solutions: Turning Plastic Waste into Building Materials",
+            "shortDescription": "Innovative recycling initiatives convert plastic waste into sustainable building materials.",
+            "description": "Forward-thinking recycling initiatives tackle plastic waste by transforming it into sustainable building materials. This eco-friendly approach not only addresses environmental concerns but also contributes to the development of circular economies and reduces reliance on traditional construction materials.",
+            "category": "Environment",
+            "publishedAt": 1671255000,
+            "popularity": 188,
+            "image": "https://www.industrytap.com/wp-content/uploads/2022/01/by-fusion-blocks.jpg"
+        },
+        {
+            "id": 48,
+            "headers": "Mind-Controlled Prosthetics: Breakthrough Technology Enhances Mobility",
+            "shortDescription": "Advancements in mind-controlled prosthetics revolutionize mobility for amputees.",
+            "description": "Cutting-edge technology in mind-controlled prosthetics offers a breakthrough in enhancing mobility for amputees. The integration of brain-machine interfaces allows users to control artificial limbs with unprecedented precision, improving overall quality of life.",
+            "category": "Technology",
+            "publishedAt": 1671387600,
+            "popularity": 192,
+            "image": "https://assets.newatlas.com/dims4/default/078d2a2/2147483647/strip/true/crop/2289x1526+0+0/resize/2289x1526!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fthought_controlled_permanent_prosthetic_arm.jpg"
+        },
+        {
+            "id": 49,
+            "headers": "Space Tourism Expansion: New Companies Enter the Commercial Space Race",
+            "shortDescription": "Emerging companies join the race to offer commercial space tourism services.",
+            "description": "The landscape of space tourism expands as new companies enter the commercial space race, aiming to provide private individuals with the opportunity to experience space travel. This growing industry opens new possibilities for civilian space exploration.",
+            "category": "Science",
+            "publishedAt": 1671387600,
+            "popularity": 219,
+            "image": "https://i.cbc.ca/1.6096975.1625860751!/fileImage/httpImage/space-race02.jpg"
+        },
+        {
+            "id": 50,
+            "headers": "Blockchain in Supply Chain: Transforming Transparency and Traceability",
+            "shortDescription": "Blockchain technology revolutionizes transparency and traceability in supply chains.",
+            "description": "The adoption of blockchain technology in supply chains transforms the way businesses manage transparency and traceability. Decentralized ledgers enhance security, reduce fraud, and provide a reliable record of every transaction within complex supply networks.",
+            "category": "Economy",
+            "publishedAt": 1671387600,
+            "popularity": 205,
+            "image": "https://www.technology-innovators.com/wp-content/uploads/2023/05/Blockchain-in-Supply-Chain-Enhancing-Transparency-and-Traceability-min.jpg"
+        }
+    ]
+}
