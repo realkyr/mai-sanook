@@ -18,5 +18,27 @@ html, body {
     .ant-typography {
       color: #fff;
     }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: #fff;
+    }
+
+    .ant-divider-inner-text {
+      color: #fff;
+    }
+
+    .ant-card-body {
+      background-color: #1A1A1A;
+      color: #fff;
+    }
+
+    .ant-card-meta-title {
+      color: #fff;
+    }
   }
 }
